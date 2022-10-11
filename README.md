@@ -1,5 +1,5 @@
-# Teste teste
+# Belliws' learn progress
 
-Olá bem vindo ao teste 1.
+Here you gona find, some of my dev skills progress. Hope you like.
 
-teste teste
+[Here you can find me on linkedin](https://www.linkedin.com/in/rodrigo-moreira-da-silva-3395ab1b5)
