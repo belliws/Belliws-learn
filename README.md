@@ -1,4 +1,4 @@
-# Belliws' learn progress
+# Belliws' learn progress 😉
 
 Here you gona find, some of my dev skills progress. Hope you like.
 
